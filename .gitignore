@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.env
+.DS_Store
+Thumbs.db
+
+# Planning and AI agent artifacts
+plans/
+.agent/
+.agent-skill/

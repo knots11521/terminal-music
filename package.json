@@ -1,0 +1,20 @@
+{
+  "name": "terminal-lyrics-sync",
+  "version": "1.0.0",
+  "description": "A terminal-based lyrics sync player that displays timestamped lyrics with a typewriter effect",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "jukebox": "node src/jukebox.js",
+    "test": "node --test src/",
+    "lint": "node --check src/*.js"
+  },
+  "dependencies": {
+    "audic": "^2.0.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5"
+  },
+  "author": "",
+  "license": "MIT"
+}
