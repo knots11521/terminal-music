@@ -2,6 +2,21 @@
 
 A terminal-based lyrics player that synchronizes timestamped lyrics with music playback and renders them using a typewriter effect.
 
+## Installation
+
+Git clone this repo:
+
+```bash
+git clone https://github.com/your-username/terminal-lyrics-sync.git
+cd terminal-lyrics-sync
+```
+
+Then install dependencies:
+
+```bash
+npm install
+```
+
 ## Requirements
 
 - Node.js >= 18
